@@ -1,2 +1,2 @@
-BirthdayCardMaker--Java-
+BirthdayCardMaker [Java]
 ========================
